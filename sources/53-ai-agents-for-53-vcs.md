@@ -46,8 +46,8 @@ AutoManus turns messy conversations into "AI deal memory": launching an agent wi
 ## People & organizations mentioned
 
 - Sean
-- AutoManus
-- Character Labs
+- [AutoManus](/entities/automanus.md)
+- [Character Labs](/entities/character-labs.md)
 - MIT
 - Google
 - Walmart
@@ -55,10 +55,9 @@ AutoManus turns messy conversations into "AI deal memory": launching an agent wi
 - GitHub
 - LinkedIn
 - WhatsApp
-
 ## Concepts covered
 
-- ai-sales-agents
-- ai-deal-memory
-- consultative-sales
-- ai-startup-fundraising
+- [ai-sales-agents](/concepts/ai-sales-agents.md)
+- [ai-deal-memory](/concepts/ai-sales-agents.md)
+- [consultative-sales](/concepts/ai-sales-agents.md)
+- [ai-startup-fundraising](/concepts/ai-startup-fundraising.md)

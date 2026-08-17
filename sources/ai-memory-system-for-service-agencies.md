@@ -39,9 +39,9 @@ Because some sizable customers do use a CRM, the system also syncs external data
 
 ## Concepts covered
 
-- business-memory-system
-- ai-chief-of-staff
-- business-manager
-- crm-sync
-- lead-management
-- whatsapp-integration
+- [business-memory-system](/concepts/business-memory-system.md)
+- [ai-chief-of-staff](/concepts/business-memory-system.md)
+- [business-manager](/concepts/business-memory-system.md)
+- [crm-sync](/concepts/business-memory-system.md)
+- [lead-management](/concepts/business-memory-system.md)
+- [whatsapp-integration](/concepts/business-memory-system.md)

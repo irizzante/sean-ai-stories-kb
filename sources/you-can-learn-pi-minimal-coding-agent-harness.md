@@ -45,9 +45,9 @@ Sean also demonstrates Pi as a pluggable component inside a bigger harness: his 
 
 ## Concepts covered
 
-- pi-coding-agent
-- agent-harness
-- loop-engineering
+- [pi-coding-agent](/entities/pi-coding-agent.md)
+- [agent-harness](/concepts/ai-agent-harness.md)
+- [loop-engineering](/concepts/loop-engineering.md)
 - agent-skills
 - agent-extensions
 - minimal-agent-design

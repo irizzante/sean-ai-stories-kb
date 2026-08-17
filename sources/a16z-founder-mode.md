@@ -36,16 +36,15 @@ The lesson Sean draws is about customer engagement, not outreach volume. "This i
 
 ## People & organizations mentioned
 
-- a16z
+- [a16z](/entities/a16z.md)
 - a16z speedrun
-- Andrew Chen
+- [Andrew Chen](/entities/andrew-chen.md)
 - Ryan (marketing partner at a16z)
 - X (Twitter)
 - Substack
-
 ## Concepts covered
 
-- founder-mode
-- vc-outreach
-- customer-engagement
-- a16z-speedrun
+- [founder-mode](/concepts/ai-startup-fundraising.md)
+- [vc-outreach](/concepts/ai-startup-fundraising.md)
+- [customer-engagement](/concepts/ai-startup-fundraising.md)
+- [a16z-speedrun](/concepts/ai-startup-fundraising.md)

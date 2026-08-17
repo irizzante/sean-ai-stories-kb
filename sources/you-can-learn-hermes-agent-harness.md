@@ -49,9 +49,9 @@ The live demos cover cron-scheduled Pokémon jokes [05:24], terminal use to chec
 
 ## Concepts covered
 
-- hermes-agent
-- agent-harness
-- loop-engineering
-- memory-system
+- [hermes-agent](/entities/hermes-agent.md)
+- [agent-harness](/concepts/ai-agent-harness.md)
+- [loop-engineering](/concepts/loop-engineering.md)
+- [memory-system](/concepts/agent-memory-system.md)
 - self-improving-ai
-- procedural-memory
+- [procedural-memory](/concepts/agent-memory-system.md)

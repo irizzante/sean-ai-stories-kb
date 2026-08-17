@@ -43,9 +43,9 @@ The second half stress-tests real memory layers through the Waku agent's "memory
 
 ## Concepts covered
 
-- agent-memory-layers
-- graph-rag
-- vector-databases
-- temporal-graph-memory
-- memory-maintenance
-- sqlite-fts5
+- [agent-memory-layers](/concepts/agent-memory-system.md)
+- [graph-rag](/concepts/graph-rag.md)
+- [vector-databases](/concepts/vector-databases.md)
+- [temporal-graph-memory](/concepts/graph-rag.md)
+- [memory-maintenance](/concepts/graph-rag.md)
+- [sqlite-fts5](/concepts/vector-databases.md)

@@ -45,9 +45,9 @@ The code walkthrough covers the gateway (Telegram via BotFather, plus a voice mo
 
 ## Concepts covered
 
-- agent-harness
-- loop-engineering
-- memory-system
-- procedural-memory
-- semantic-memory
-- episodic-memory
+- [agent-harness](/concepts/ai-agent-harness.md)
+- [loop-engineering](/concepts/loop-engineering.md)
+- [memory-system](/concepts/agent-memory-system.md)
+- [procedural-memory](/concepts/agent-memory-system.md)
+- [semantic-memory](/concepts/agent-memory-system.md)
+- [episodic-memory](/concepts/agent-memory-system.md)

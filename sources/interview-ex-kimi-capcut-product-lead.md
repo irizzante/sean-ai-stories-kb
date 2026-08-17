@@ -54,16 +54,16 @@ On monetization and strategy: "token-based pricing is inherently flawed" [37:37]
 - Eric Schmidt
 - Terence Tao
 - Karl Marx
-- Kimi
+- [Kimi](/entities/kimi-k3.md)
 - ByteDance
 - Jianying
 - CapCut
 - YouWare
 - Bloome
-- Automanus
+- [Automanus](/entities/automanus.md)
 - Lovable
 - Cursor
-- Anthropic
+- [Anthropic](/entities/anthropic.md)
 - OpenAI
 - Google
 - Meta
@@ -105,9 +105,8 @@ On monetization and strategy: "token-based pricing is inherently flawed" [37:37]
 - ChatGPT
 - Seedance
 - Disney
-
 ## Concepts covered
 
-- human-agent-collaboration
-- china-vs-silicon-valley
-- outcome-based-pricing
+- [human-agent-collaboration](/concepts/ai-agent-startups.md)
+- [china-vs-silicon-valley](/concepts/ai-agent-startups.md)
+- [outcome-based-pricing](/concepts/ai-agent-startups.md)

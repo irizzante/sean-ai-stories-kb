@@ -44,9 +44,9 @@ The final piece is LLM Ops: since "we don't know how well it's performing" [14:3
 
 ## Concepts covered
 
-- agent-harness
-- loop-engineering
-- llm-ops
-- agent-evaluation
-- agent-memory
-- retrieval-augmented-generation
+- [agent-harness](/concepts/ai-agent-harness.md)
+- [loop-engineering](/concepts/loop-engineering.md)
+- [llm-ops](/concepts/llm-ops.md)
+- [agent-evaluation](/concepts/llm-ops.md)
+- [agent-memory](/concepts/agent-memory-system.md)
+- [retrieval-augmented-generation](/concepts/vector-databases.md)

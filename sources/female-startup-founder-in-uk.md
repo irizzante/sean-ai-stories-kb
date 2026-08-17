@@ -46,7 +46,7 @@ On founder psychology, the trio trades imposter-syndrome remedies: do not projec
 ## People & organizations mentioned
 
 - Sean Chen
-- Maya Atso
+- [Maya Atso](/entities/maya-atso.md)
 - Victoria Peronnet Miller
 - Amy (Odd Muse founder)
 - Naval Ravikant
@@ -67,9 +67,8 @@ On founder psychology, the trio trades imposter-syndrome remedies: do not projec
 - Durham University Venture Lab
 - Y Combinator
 - Dragon's Den
-
 ## Concepts covered
 
-- uk-startup-ecosystem
-- female-founders
-- startup-fundraising
+- [uk-startup-ecosystem](/concepts/uk-startup-ecosystem.md)
+- [female-founders](/concepts/uk-startup-ecosystem.md)
+- [startup-fundraising](/concepts/ai-startup-fundraising.md)

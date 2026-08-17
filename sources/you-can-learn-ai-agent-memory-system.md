@@ -39,9 +39,9 @@ The most important design trick is consolidation: ChatGPT and Claude keep their 
 
 ## Concepts covered
 
-- agent-memory-system
-- working-memory
-- procedural-memory
-- semantic-memory
-- episodic-memory
-- rag
+- [agent-memory-system](/concepts/agent-memory-system.md)
+- [working-memory](/concepts/agent-memory-system.md)
+- [procedural-memory](/concepts/agent-memory-system.md)
+- [semantic-memory](/concepts/agent-memory-system.md)
+- [episodic-memory](/concepts/agent-memory-system.md)
+- [rag](/concepts/vector-databases.md)

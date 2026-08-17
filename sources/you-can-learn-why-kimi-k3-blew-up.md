@@ -45,8 +45,8 @@ The second half is a live benchmark inside Waku-Agent's compare tab, pitting K3 
 
 ## Concepts covered
 
-- mixture-of-experts
-- delta-attention
-- linear-attention
-- agent-loop-economics
-- model-evaluation
+- [mixture-of-experts](/concepts/mixture-of-experts.md)
+- [delta-attention](/concepts/mixture-of-experts.md)
+- [linear-attention](/concepts/mixture-of-experts.md)
+- [agent-loop-economics](/concepts/loop-engineering.md)
+- [model-evaluation](/concepts/model-evaluation.md)

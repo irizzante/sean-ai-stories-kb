@@ -73,13 +73,12 @@ His theses: long-running, self-improving agents with memory are the next wave [3
 - Figma
 - Cursor
 - Lovable
-- Automanus
+- [Automanus](/entities/automanus.md)
 - Claude Code
 - GitHub
 - Google Colab
-
 ## Concepts covered
 
-- ai-content-creation
-- ai-native-companies
-- long-running-agents
+- [ai-content-creation](/concepts/ai-content-creation.md)
+- [ai-native-companies](/concepts/ai-content-creation.md)
+- [long-running-agents](/concepts/ai-content-creation.md)

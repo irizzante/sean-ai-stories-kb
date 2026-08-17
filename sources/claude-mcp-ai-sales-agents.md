@@ -50,8 +50,8 @@ The agent ships with scraped goals, actions, and a knowledge base, which can be 
 
 ## People & organizations mentioned
 
-- AutoManus
-- Claude
+- [AutoManus](/entities/automanus.md)
+- [Claude](/entities/anthropic.md)
 - Notion
 - Calendly
 - WhatsApp
@@ -59,10 +59,9 @@ The agent ships with scraped goals, actions, and a knowledge base, which can be 
 - Discord
 - Cursor
 - Lovable
-
 ## Concepts covered
 
-- mcp-in-ai-agents
-- ai-sales-agents
-- agent-verification
-- ai-lead-management
+- [mcp-in-ai-agents](/concepts/mcp-in-ai-agents.md)
+- [ai-sales-agents](/concepts/ai-sales-agents.md)
+- [agent-verification](/concepts/mcp-in-ai-agents.md)
+- [ai-lead-management](/concepts/ai-sales-agents.md)

@@ -45,9 +45,9 @@ He closes by answering "isn't this just a deterministic workflow from 2023?" —
 
 ## Concepts covered
 
-- agent-graph-engineering
-- loop-engineering
-- agent-harness
-- procedural-memory
-- workflow-routing
-- waku-agent
+- [agent-graph-engineering](/concepts/agent-graph-engineering.md)
+- [loop-engineering](/concepts/loop-engineering.md)
+- [agent-harness](/concepts/ai-agent-harness.md)
+- [procedural-memory](/concepts/agent-memory-system.md)
+- [workflow-routing](/concepts/agent-graph-engineering.md)
+- [waku-agent](/entities/waku-agent.md)
